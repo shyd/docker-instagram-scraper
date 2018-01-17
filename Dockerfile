@@ -1,4 +1,4 @@
-FROM python:slim-stretch
+FROM python:alpine
 
 RUN pip install instagram-scraper
 
