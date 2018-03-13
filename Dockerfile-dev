@@ -1,0 +1,9 @@
+FROM python:alpine
+
+RUN pip install https://github.com/shyd/instagram-scraper/archive/master.zip
+
+RUN mkdir /download
+
+WORKDIR /download
+
+CMD instagram-scraper @/ig_args.txt -f /ig_users.txt
