@@ -1,6 +1,6 @@
 FROM python:alpine
 
-RUN pip install instagram-scraper==1.5.20
+RUN pip install instagram-scraper==1.5.23
 
 RUN mkdir /download
 
