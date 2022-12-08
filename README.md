@@ -1,3 +1,7 @@
+# ❗️ rarcega/instagram-scraper is not available anymore.
+
+This project is now closed and will not be maintained anymore. Sorry for that!
+
 # docker-instagram-scraper
 
 Docker image with `instagram-scraper` in it. See [rarcega/instagram-scraper](https://github.com/rarcega/instagram-scraper) for more info.
